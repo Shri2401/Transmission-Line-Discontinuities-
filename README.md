@@ -46,6 +46,7 @@ The project follows these steps:
 
 ## Experimental Setup
 Transmission lines with impedance values of 25 Ω, 50 Ω, and 75 Ω were tested. A microstrip structure was created, and slots were introduced in the return path. The slot dimensions were calculated based on the spatial extent of the signal. Additional capacitance was added through patches, and the designs were tested using TDR.
+ ![Simulated Design](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Picture2.png)
   ![Board Design](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Picture1.png)
 
 ## Results
@@ -55,21 +56,23 @@ Transmission lines with impedance values of 25 Ω, 50 Ω, and 75 Ω were test
 - Inductive behavior is indicated by peaks in the impedance.
 - Capacitive behavior is indicated by dips in the impedance.
 - Combination of slot and patch shows a compensated impedance close to 25 Ω.
+![25 ohm](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Screenshot%202024-05-27%20213458.png)
 
 ### Measured and Simulated TDR Plots for 25 Ω
 - Simulated plot shows a characteristic impedance of 24.8 Ω.
 - Measured results show minimal discrepancy, with an error percentage of 0.4%.
+ ![25 ohm](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Screenshot%202024-05-27%20213458.png)
 
 ### Measured and Simulated TDR Plots for 50 Ω
 - Simulated characteristic impedance is 49.9 Ω.
 - Measured characteristic impedance shows a maximum discrepancy of 6.2%.
+ ![50 ohm](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Screenshot%202024-05-27%20213520.png)
 
 ### Measured and Simulated TDR Plots for 75 Ω
 - Simulated characteristic impedance is 75.6 Ω.
 - Measured characteristic impedance shows a maximum discrepancy of 12%.
+ ![75 ohm](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Screenshot%202024-05-27%20213552.png)
 
-### Reverse Engineering the Measured Plots for 25 Ω Transmission Line
-- Inductance and capacitance values for the transmission lines are obtained through detailed TDR plot analysis.
 
 ## Conclusions
 The study demonstrates that by introducing patches to counteract the effects of slots, the characteristic impedance of transmission lines can be effectively managed. The results highlight the importance of maintaining a uniform return path for optimal signal integrity in high-frequency systems. The practical guidelines provided are valuable for transmission line design.
