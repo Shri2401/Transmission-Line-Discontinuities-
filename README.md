@@ -56,7 +56,7 @@ Transmission lines with impedance values of 25 Ω, 50 Ω, and 75 Ω were test
 - Inductive behavior is indicated by peaks in the impedance.
 - Capacitive behavior is indicated by dips in the impedance.
 - Combination of slot and patch shows a compensated impedance close to 25 Ω.
-![25 ohm](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Screenshot%202024-05-27%20213458.png)
+![25 ohm](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Screenshot%202024-05-27%20213419.png)
 
 ### Measured and Simulated TDR Plots for 25 Ω
 - Simulated plot shows a characteristic impedance of 24.8 Ω.
