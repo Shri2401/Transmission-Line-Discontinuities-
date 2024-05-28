@@ -1,9 +1,6 @@
 # Analysis of Transmission Line Discontinuities using Time Domain Reflectometry
 
-## Authors
-- **Ankit Kumar**
-  - Electrical and Computer Engineering, University of Colorado, Boulder, USA
-  - Email: [ankit.kumar@colorado.edu](mailto:ankit.kumar@colorado.edu)
+## Author
 - **Shrinithi Venkatesan**
   - Electrical and Computer Engineering, University of Colorado, Boulder, USA
   - Email: [shrinithi.venkatesan@colorado.edu](mailto:shrinithi.venkatesan@colorado.edu)
