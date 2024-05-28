@@ -46,6 +46,7 @@ The project follows these steps:
 
 ## Experimental Setup
 Transmission lines with impedance values of 25 Ω, 50 Ω, and 75 Ω were tested. A microstrip structure was created, and slots were introduced in the return path. The slot dimensions were calculated based on the spatial extent of the signal. Additional capacitance was added through patches, and the designs were tested using TDR.
+  ![Board Design](https://github.com/Shri2401/Transmission-Line-Discontinuities-/blob/main/supporting%20pics/Picture1.png)
 
 ## Results
 
